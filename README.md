@@ -6,7 +6,6 @@ This is a simple chess game implemented using vanilla JavaScript.
 
 - Interactive chessboard with standard rules.
 - Player vs. player mode.
-- [Optional] Player vs. computer mode (if implemented).
 
 ## Technologies Used
 
